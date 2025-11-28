@@ -1,0 +1,96 @@
+Lab Exercise 2 and 3: Overview of Management Information Systems (MIS)
+A. Lab Objectives
+By the end of this lab, students will be able to:
+1.	Describe the structure and components of a Management Information System.
+2.	Distinguish MIS from traditional data processing systems.
+3.	Analyze how MIS supports managerial decision-making.
+4.	Explain the role of MIS in Information Resources Management (IRM).
+5.	Apply MIS principles through practical tasks and case analysis.
+
+B. Lab Activities
+1. Structure of a Management Information System
+Task 1: Draw the Structure of MIS
+Create a diagram showing the typical structure of an MIS, including:
+•	Input subsystem
+•	Processing subsystem
+•	Output/reporting subsystem
+•	Database subsystem
+•	Feedback & control mechanism
+•	Users (operational, tactical, strategic)
+Instructions:
+Draw using lucid chart or word.
+Task 2: MIS Structure Explanation
+Write a short paragraph explaining how information flows from input → process → output within MIS.
+
+
+2. MIS vs Data Processing
+Task 3: Comparison Table
+Prepare a table comparing MIS and Data Processing Systems based on:
+•	Purpose
+•	Input
+•	Output
+•	Users
+•	Time orientation (past vs present/future)
+•	Processing type
+•	Complexity
+•	Decision support capability
+Example :
+Feature	MIS	Data Processing
+Purpose	Support decisions	Record transactions
+
+3. Decision Making in MIS
+Task 4: MIS Decision Scenario Using Spreadsheet
+Use MS Excel / Google Sheets to simulate simple MIS decision support.
+1.	Create a dataset with the following fields:
+        o	Month
+        o	Sales
+        o	Cost
+        o	Profit
+2.	Enter data for 12 months.
+3.	Generate the following MIS reports and decision tools:
+    o	Total annual sales
+    o	Monthly average profit
+    o	Identify best month and worst month using formulas
+    o	Use Goal Seek / What-If analysis to:
+	Determine required sales to achieve a target annual profit
+4.	Write a short explanation of how this simulated MIS report helps managerial decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution : TASK1
+ 
+
+The Management Information System (MIS) is organized into several interconnected subsystems:
+1.	Input Subsystem
+o	Collects raw data from internal sources (transactions, operations) and external sources (market, suppliers).
+o	Includes data entry, scanning, sensors, forms, etc.
+2.	Processing Subsystem
+o	Converts raw data into meaningful information through calculations, sorting, classification, analyzing, modeling, and summarizing.
+3.	Database Subsystem
+o	Central storage area managed by a DBMS.
+o	Stores, organizes, secures, and retrieves data used by MIS reports.
+4.	Output/Reporting Subsystem
+o	Produces organized reports such as summary reports, exception reports, dashboards, charts, and decision-support information.
+5.	Feedback & Control Mechanism
+o	Evaluates system performance.
+o	Compares actual output with expected output.
+o	Sends corrective signals back to the input or processing subsystem.
+6.	Users (Operational, Tactical, Strategic)
+o	Operational-level users: daily routine tasks.
+o	Tactical/managerial users: medium-term planning and control.
+o	Strategic-level managers: long-term planning and policy decisions.
